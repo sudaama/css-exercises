@@ -1,0 +1,20 @@
+.oddNumz {
+    background-color: #ecb3d9;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#num2 {
+    color:rgb(19, 41, 165);
+    font-size: 36px;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+
+#num4 {
+    background-color: hsl(83, 85%, 56%);
+    font-size: 24px;
+    font-weight: bold;
+}
