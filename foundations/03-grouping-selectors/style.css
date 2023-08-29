@@ -1,13 +1,13 @@
-blkBk_WhText {
+.blkBk_WhText {
     background-color: black;
     color: white;
 }
 
-yellBk {
+.yellBk {
     background-color: yellow;
 }
 
-fontStuff {
+.yellBk, .blkBk_WhText {
     font-family: Helvetica, Times New Roman, sans-serif;
     font-size: 28px;
 }
