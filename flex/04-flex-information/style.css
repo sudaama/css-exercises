@@ -35,3 +35,7 @@ img {
   justify-content: space-between;
   gap: 52px;
 }
+
+.flower {
+  flex-basis: 200px;
+}
