@@ -3,7 +3,7 @@
   background: papayawhip;
   display: flex;
   justify-content: space-between;
-  align-content: center;
+  align-items: center;
   padding: 10px;
   
 }
@@ -28,6 +28,7 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
 
 .left-links ul, .right-links ul {
    display: flex; 
