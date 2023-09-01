@@ -37,13 +37,19 @@ body {
   padding: 16px;
 }
 
+.cardGroup {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 32px;
+}
 .card {
+  width: 300px;
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 32px;
   margin: 10px 0px;
-  flex: 1;
 }
 
 .container {
@@ -69,11 +75,3 @@ a {
   text-decoration: none;
 }
 
-.cardGroup {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  /* width: 600px; */
-  
-}
